@@ -1,0 +1,7 @@
+#Ficheros para ignorar de nuestro reprositoriio
+
+*.bak
+
+*.class
+
+
